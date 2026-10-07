@@ -7,6 +7,7 @@ My journey of solving DSA problem
 |  |
 | ------- |
 | [0274-h-index](https://github.com/divyanshu190/DSA-Practice/tree/master/0274-h-index) |
+| [0275-h-index-ii](https://github.com/divyanshu190/DSA-Practice/tree/master/0275-h-index-ii) |
 | [0500-keyboard-row](https://github.com/divyanshu190/DSA-Practice/tree/master/0500-keyboard-row) |
 ## Hash Table
 |  |
@@ -24,4 +25,8 @@ My journey of solving DSA problem
 |  |
 | ------- |
 | [0274-h-index](https://github.com/divyanshu190/DSA-Practice/tree/master/0274-h-index) |
+## Binary Search
+|  |
+| ------- |
+| [0275-h-index-ii](https://github.com/divyanshu190/DSA-Practice/tree/master/0275-h-index-ii) |
 <!---LeetCode Topics End-->
