@@ -6,6 +6,7 @@ My journey of solving DSA problem
 ## Array
 |  |
 | ------- |
+| [0274-h-index](https://github.com/divyanshu190/DSA-Practice/tree/master/0274-h-index) |
 | [0500-keyboard-row](https://github.com/divyanshu190/DSA-Practice/tree/master/0500-keyboard-row) |
 ## Hash Table
 |  |
@@ -15,4 +16,12 @@ My journey of solving DSA problem
 |  |
 | ------- |
 | [0500-keyboard-row](https://github.com/divyanshu190/DSA-Practice/tree/master/0500-keyboard-row) |
+## Sorting
+|  |
+| ------- |
+| [0274-h-index](https://github.com/divyanshu190/DSA-Practice/tree/master/0274-h-index) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/divyanshu190/DSA-Practice/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
