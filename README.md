@@ -32,4 +32,16 @@ My journey of solving DSA problem
 | ------- |
 | [0275-h-index-ii](https://github.com/divyanshu190/DSA-Practice/tree/master/0275-h-index-ii) |
 | [0875-koko-eating-bananas](https://github.com/divyanshu190/DSA-Practice/tree/master/0875-koko-eating-bananas) |
+## Math
+|  |
+| ------- |
+| [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/divyanshu190/DSA-Practice/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
+## Greedy
+|  |
+| ------- |
+| [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/divyanshu190/DSA-Practice/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
+## Enumeration
+|  |
+| ------- |
+| [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/divyanshu190/DSA-Practice/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
