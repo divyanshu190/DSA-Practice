@@ -11,6 +11,7 @@ My journey of solving DSA problem
 | [0500-keyboard-row](https://github.com/divyanshu190/DSA-Practice/tree/master/0500-keyboard-row) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/divyanshu190/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/divyanshu190/DSA-Practice/tree/master/0875-koko-eating-bananas) |
+| [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/divyanshu190/DSA-Practice/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/divyanshu190/DSA-Practice/tree/master/3131-find-the-integer-added-to-array-i) |
 ## Hash Table
 |  |
@@ -41,6 +42,7 @@ My journey of solving DSA problem
 ## Greedy
 |  |
 | ------- |
+| [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/divyanshu190/DSA-Practice/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/divyanshu190/DSA-Practice/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 ## Enumeration
 |  |
@@ -50,4 +52,8 @@ My journey of solving DSA problem
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/divyanshu190/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/divyanshu190/DSA-Practice/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 <!---LeetCode Topics End-->
