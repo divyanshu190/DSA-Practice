@@ -12,6 +12,7 @@ My journey of solving DSA problem
 | [0852-peak-index-in-a-mountain-array](https://github.com/divyanshu190/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/divyanshu190/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/divyanshu190/DSA-Practice/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/divyanshu190/DSA-Practice/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/divyanshu190/DSA-Practice/tree/master/3131-find-the-integer-added-to-array-i) |
 ## Hash Table
 |  |
@@ -56,4 +57,8 @@ My journey of solving DSA problem
 |  |
 | ------- |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/divyanshu190/DSA-Practice/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/divyanshu190/DSA-Practice/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 <!---LeetCode Topics End-->
