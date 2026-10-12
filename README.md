@@ -12,6 +12,7 @@ My journey of solving DSA problem
 | [0852-peak-index-in-a-mountain-array](https://github.com/divyanshu190/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/divyanshu190/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/divyanshu190/DSA-Practice/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/divyanshu190/DSA-Practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divyanshu190/DSA-Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/divyanshu190/DSA-Practice/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/divyanshu190/DSA-Practice/tree/master/3131-find-the-integer-added-to-array-i) |
@@ -30,6 +31,7 @@ My journey of solving DSA problem
 |  |
 | ------- |
 | [0274-h-index](https://github.com/divyanshu190/DSA-Practice/tree/master/0274-h-index) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/divyanshu190/DSA-Practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divyanshu190/DSA-Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Counting Sort
 |  |
@@ -41,6 +43,7 @@ My journey of solving DSA problem
 | [0275-h-index-ii](https://github.com/divyanshu190/DSA-Practice/tree/master/0275-h-index-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/divyanshu190/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/divyanshu190/DSA-Practice/tree/master/0875-koko-eating-bananas) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/divyanshu190/DSA-Practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divyanshu190/DSA-Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Math
 |  |
@@ -88,4 +91,8 @@ My journey of solving DSA problem
 |  |
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/divyanshu190/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+## Two Pointers
+|  |
+| ------- |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/divyanshu190/DSA-Practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 <!---LeetCode Topics End-->
