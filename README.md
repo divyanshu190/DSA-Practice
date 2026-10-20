@@ -7,6 +7,7 @@ My journey of solving DSA problem
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/divyanshu190/DSA-Practice/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/divyanshu190/DSA-Practice/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/divyanshu190/DSA-Practice/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/divyanshu190/DSA-Practice/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/divyanshu190/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
@@ -24,6 +25,7 @@ My journey of solving DSA problem
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/divyanshu190/DSA-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/divyanshu190/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0500-keyboard-row](https://github.com/divyanshu190/DSA-Practice/tree/master/0500-keyboard-row) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divyanshu190/DSA-Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -35,6 +37,7 @@ My journey of solving DSA problem
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/divyanshu190/DSA-Practice/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/divyanshu190/DSA-Practice/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/divyanshu190/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/divyanshu190/DSA-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -50,6 +53,7 @@ My journey of solving DSA problem
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/divyanshu190/DSA-Practice/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/divyanshu190/DSA-Practice/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/divyanshu190/DSA-Practice/tree/master/0275-h-index-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/divyanshu190/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/divyanshu190/DSA-Practice/tree/master/0875-koko-eating-bananas) |
@@ -59,6 +63,7 @@ My journey of solving DSA problem
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/divyanshu190/DSA-Practice/tree/master/0268-missing-number) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/divyanshu190/DSA-Practice/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 ## Greedy
 |  |
@@ -77,6 +82,7 @@ My journey of solving DSA problem
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/divyanshu190/DSA-Practice/tree/master/0268-missing-number) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/divyanshu190/DSA-Practice/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 ## Prefix Sum
 |  |
