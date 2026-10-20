@@ -6,6 +6,7 @@ My journey of solving DSA problem
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/divyanshu190/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0274-h-index](https://github.com/divyanshu190/DSA-Practice/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/divyanshu190/DSA-Practice/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/divyanshu190/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
@@ -48,6 +49,7 @@ My journey of solving DSA problem
 ## Binary Search
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/divyanshu190/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0275-h-index-ii](https://github.com/divyanshu190/DSA-Practice/tree/master/0275-h-index-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/divyanshu190/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/divyanshu190/DSA-Practice/tree/master/0875-koko-eating-bananas) |
