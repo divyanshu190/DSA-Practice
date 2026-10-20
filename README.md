@@ -11,6 +11,7 @@ My journey of solving DSA problem
 | [0274-h-index](https://github.com/divyanshu190/DSA-Practice/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/divyanshu190/DSA-Practice/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/divyanshu190/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/divyanshu190/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0500-keyboard-row](https://github.com/divyanshu190/DSA-Practice/tree/master/0500-keyboard-row) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/divyanshu190/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/divyanshu190/DSA-Practice/tree/master/0875-koko-eating-bananas) |
@@ -27,6 +28,7 @@ My journey of solving DSA problem
 | ------- |
 | [0268-missing-number](https://github.com/divyanshu190/DSA-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/divyanshu190/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/divyanshu190/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0500-keyboard-row](https://github.com/divyanshu190/DSA-Practice/tree/master/0500-keyboard-row) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divyanshu190/DSA-Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/divyanshu190/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -40,6 +42,7 @@ My journey of solving DSA problem
 | [0268-missing-number](https://github.com/divyanshu190/DSA-Practice/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/divyanshu190/DSA-Practice/tree/master/0274-h-index) |
 | [0347-top-k-frequent-elements](https://github.com/divyanshu190/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/divyanshu190/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/divyanshu190/DSA-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/divyanshu190/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/divyanshu190/DSA-Practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
@@ -55,6 +58,7 @@ My journey of solving DSA problem
 | [0162-find-peak-element](https://github.com/divyanshu190/DSA-Practice/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/divyanshu190/DSA-Practice/tree/master/0268-missing-number) |
 | [0275-h-index-ii](https://github.com/divyanshu190/DSA-Practice/tree/master/0275-h-index-ii) |
+| [0349-intersection-of-two-arrays](https://github.com/divyanshu190/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/divyanshu190/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/divyanshu190/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/divyanshu190/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -112,6 +116,7 @@ My journey of solving DSA problem
 ## Two Pointers
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/divyanshu190/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/divyanshu190/DSA-Practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Sliding Window
 |  |
