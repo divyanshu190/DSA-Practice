@@ -96,6 +96,7 @@ My journey of solving DSA problem
 ## Linked List
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/divyanshu190/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/divyanshu190/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Heap (Priority Queue)
 |  |
@@ -117,6 +118,7 @@ My journey of solving DSA problem
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/divyanshu190/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 | [0349-intersection-of-two-arrays](https://github.com/divyanshu190/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/divyanshu190/DSA-Practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 ## Sliding Window
@@ -135,4 +137,12 @@ My journey of solving DSA problem
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/divyanshu190/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/divyanshu190/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/divyanshu190/DSA-Practice/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
