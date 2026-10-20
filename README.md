@@ -35,6 +35,7 @@ My journey of solving DSA problem
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/divyanshu190/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0500-keyboard-row](https://github.com/divyanshu190/DSA-Practice/tree/master/0500-keyboard-row) |
 ## Sorting
 |  |
