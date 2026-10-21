@@ -39,6 +39,7 @@ My journey of solving DSA problem
 | [0003-longest-substring-without-repeating-characters](https://github.com/divyanshu190/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0058-length-of-last-word](https://github.com/divyanshu190/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0500-keyboard-row](https://github.com/divyanshu190/DSA-Practice/tree/master/0500-keyboard-row) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/divyanshu190/DSA-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Sorting
 |  |
 | ------- |
@@ -127,6 +128,7 @@ My journey of solving DSA problem
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divyanshu190/DSA-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/divyanshu190/DSA-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/divyanshu190/DSA-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Divide and Conquer
 |  |
