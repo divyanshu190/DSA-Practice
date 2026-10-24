@@ -150,4 +150,8 @@ My journey of solving DSA problem
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/divyanshu190/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/divyanshu190/DSA-Practice/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
