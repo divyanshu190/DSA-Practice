@@ -20,6 +20,7 @@ My journey of solving DSA problem
 | [2089-find-target-indices-after-sorting-array](https://github.com/divyanshu190/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/divyanshu190/DSA-Practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divyanshu190/DSA-Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/divyanshu190/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/divyanshu190/DSA-Practice/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/divyanshu190/DSA-Practice/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/divyanshu190/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -51,6 +52,7 @@ My journey of solving DSA problem
 | [2089-find-target-indices-after-sorting-array](https://github.com/divyanshu190/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/divyanshu190/DSA-Practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divyanshu190/DSA-Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/divyanshu190/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -78,6 +80,7 @@ My journey of solving DSA problem
 | ------- |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/divyanshu190/DSA-Practice/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divyanshu190/DSA-Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/divyanshu190/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/divyanshu190/DSA-Practice/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 ## Enumeration
 |  |
