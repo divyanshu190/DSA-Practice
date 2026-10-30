@@ -19,6 +19,7 @@ My journey of solving DSA problem
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/divyanshu190/DSA-Practice/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/divyanshu190/DSA-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/divyanshu190/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2295-replace-elements-in-an-array](https://github.com/divyanshu190/DSA-Practice/tree/master/2295-replace-elements-in-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/divyanshu190/DSA-Practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divyanshu190/DSA-Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/divyanshu190/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
@@ -34,6 +35,7 @@ My journey of solving DSA problem
 | [0349-intersection-of-two-arrays](https://github.com/divyanshu190/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
 | [0447-number-of-boomerangs](https://github.com/divyanshu190/DSA-Practice/tree/master/0447-number-of-boomerangs) |
 | [0500-keyboard-row](https://github.com/divyanshu190/DSA-Practice/tree/master/0500-keyboard-row) |
+| [2295-replace-elements-in-an-array](https://github.com/divyanshu190/DSA-Practice/tree/master/2295-replace-elements-in-an-array) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divyanshu190/DSA-Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/divyanshu190/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## String
@@ -115,6 +117,7 @@ My journey of solving DSA problem
 ## Simulation
 |  |
 | ------- |
+| [2295-replace-elements-in-an-array](https://github.com/divyanshu190/DSA-Practice/tree/master/2295-replace-elements-in-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/divyanshu190/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
 |  |
