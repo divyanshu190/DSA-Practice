@@ -12,6 +12,7 @@ My journey of solving DSA problem
 | [0275-h-index-ii](https://github.com/divyanshu190/DSA-Practice/tree/master/0275-h-index-ii) |
 | [0347-top-k-frequent-elements](https://github.com/divyanshu190/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/divyanshu190/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0447-number-of-boomerangs](https://github.com/divyanshu190/DSA-Practice/tree/master/0447-number-of-boomerangs) |
 | [0500-keyboard-row](https://github.com/divyanshu190/DSA-Practice/tree/master/0500-keyboard-row) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/divyanshu190/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/divyanshu190/DSA-Practice/tree/master/0875-koko-eating-bananas) |
@@ -31,6 +32,7 @@ My journey of solving DSA problem
 | [0268-missing-number](https://github.com/divyanshu190/DSA-Practice/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/divyanshu190/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/divyanshu190/DSA-Practice/tree/master/0349-intersection-of-two-arrays) |
+| [0447-number-of-boomerangs](https://github.com/divyanshu190/DSA-Practice/tree/master/0447-number-of-boomerangs) |
 | [0500-keyboard-row](https://github.com/divyanshu190/DSA-Practice/tree/master/0500-keyboard-row) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divyanshu190/DSA-Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/divyanshu190/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -74,6 +76,7 @@ My journey of solving DSA problem
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/divyanshu190/DSA-Practice/tree/master/0268-missing-number) |
+| [0447-number-of-boomerangs](https://github.com/divyanshu190/DSA-Practice/tree/master/0447-number-of-boomerangs) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/divyanshu190/DSA-Practice/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 ## Greedy
 |  |
