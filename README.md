@@ -26,6 +26,7 @@ My journey of solving DSA problem
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/divyanshu190/DSA-Practice/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3131-find-the-integer-added-to-array-i](https://github.com/divyanshu190/DSA-Practice/tree/master/3131-find-the-integer-added-to-array-i) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/divyanshu190/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3523-make-array-non-decreasing](https://github.com/divyanshu190/DSA-Practice/tree/master/3523-make-array-non-decreasing) |
 ## Hash Table
 |  |
 | ------- |
@@ -87,6 +88,7 @@ My journey of solving DSA problem
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divyanshu190/DSA-Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/divyanshu190/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/divyanshu190/DSA-Practice/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
+| [3523-make-array-non-decreasing](https://github.com/divyanshu190/DSA-Practice/tree/master/3523-make-array-non-decreasing) |
 ## Enumeration
 |  |
 | ------- |
@@ -155,6 +157,7 @@ My journey of solving DSA problem
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/divyanshu190/DSA-Practice/tree/master/0234-palindrome-linked-list) |
+| [3523-make-array-non-decreasing](https://github.com/divyanshu190/DSA-Practice/tree/master/3523-make-array-non-decreasing) |
 ## Recursion
 |  |
 | ------- |
@@ -169,4 +172,8 @@ My journey of solving DSA problem
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/divyanshu190/DSA-Practice/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/divyanshu190/DSA-Practice/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/divyanshu190/DSA-Practice/tree/master/1683-invalid-tweets) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3523-make-array-non-decreasing](https://github.com/divyanshu190/DSA-Practice/tree/master/3523-make-array-non-decreasing) |
 <!---LeetCode Topics End-->
