@@ -21,6 +21,7 @@ My journey of solving DSA problem
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/divyanshu190/DSA-Practice/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/divyanshu190/DSA-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/divyanshu190/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2233-maximum-product-after-k-increments](https://github.com/divyanshu190/DSA-Practice/tree/master/2233-maximum-product-after-k-increments) |
 | [2295-replace-elements-in-an-array](https://github.com/divyanshu190/DSA-Practice/tree/master/2295-replace-elements-in-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/divyanshu190/DSA-Practice/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divyanshu190/DSA-Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -89,6 +90,7 @@ My journey of solving DSA problem
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/divyanshu190/DSA-Practice/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
 | [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/divyanshu190/DSA-Practice/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/divyanshu190/DSA-Practice/tree/master/1899-merge-triplets-to-form-target-triplet) |
+| [2233-maximum-product-after-k-increments](https://github.com/divyanshu190/DSA-Practice/tree/master/2233-maximum-product-after-k-increments) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divyanshu190/DSA-Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/divyanshu190/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/divyanshu190/DSA-Practice/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
@@ -119,6 +121,7 @@ My journey of solving DSA problem
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/divyanshu190/DSA-Practice/tree/master/0347-top-k-frequent-elements) |
+| [2233-maximum-product-after-k-increments](https://github.com/divyanshu190/DSA-Practice/tree/master/2233-maximum-product-after-k-increments) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/divyanshu190/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
 |  |
