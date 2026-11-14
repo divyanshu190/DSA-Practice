@@ -17,6 +17,7 @@ My journey of solving DSA problem
 | [0852-peak-index-in-a-mountain-array](https://github.com/divyanshu190/DSA-Practice/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/divyanshu190/DSA-Practice/tree/master/0875-koko-eating-bananas) |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/divyanshu190/DSA-Practice/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
+| [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/divyanshu190/DSA-Practice/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/divyanshu190/DSA-Practice/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/divyanshu190/DSA-Practice/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/divyanshu190/DSA-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -86,6 +87,7 @@ My journey of solving DSA problem
 |  |
 | ------- |
 | [1558-minimum-numbers-of-function-calls-to-make-target-array](https://github.com/divyanshu190/DSA-Practice/tree/master/1558-minimum-numbers-of-function-calls-to-make-target-array) |
+| [1785-minimum-elements-to-add-to-form-a-given-sum](https://github.com/divyanshu190/DSA-Practice/tree/master/1785-minimum-elements-to-add-to-form-a-given-sum) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/divyanshu190/DSA-Practice/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2554-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/divyanshu190/DSA-Practice/tree/master/2554-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/divyanshu190/DSA-Practice/tree/master/2567-minimum-score-by-changing-two-elements) |
