@@ -49,6 +49,7 @@ My journey of solving DSA problem
 | [0058-length-of-last-word](https://github.com/divyanshu190/DSA-Practice/tree/master/0058-length-of-last-word) |
 | [0500-keyboard-row](https://github.com/divyanshu190/DSA-Practice/tree/master/0500-keyboard-row) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/divyanshu190/DSA-Practice/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/divyanshu190/DSA-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Sorting
 |  |
 | ------- |
@@ -126,6 +127,7 @@ My journey of solving DSA problem
 ## Simulation
 |  |
 | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/divyanshu190/DSA-Practice/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2295-replace-elements-in-an-array](https://github.com/divyanshu190/DSA-Practice/tree/master/2295-replace-elements-in-an-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/divyanshu190/DSA-Practice/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Doubly-Linked List
